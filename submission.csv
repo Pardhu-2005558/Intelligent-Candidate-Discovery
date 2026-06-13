@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0002025,1,0.8896666666666666,Senior AI Engineer with 5.9 yrs; retrieval/ranking experience; active candidate
+CAND_0017960,2,0.8613333333333333,Recommendation Systems Engineer with 7.7 yrs; retrieval/ranking experience; active candidate
+CAND_0018499,3,0.8510000000000001,Senior Machine Learning Engineer with 7.2 yrs; retrieval/ranking experience; active candidate
+CAND_0018722,4,0.8460000000000001,Recommendation Systems Engineer with 6.6 yrs; retrieval/ranking experience; active candidate
+CAND_0028793,5,0.8386666666666667,Search Engineer with 7.2 yrs; retrieval/ranking experience; active candidate
+CAND_0016163,6,0.8366666666666667,Applied ML Engineer with 6.7 yrs; retrieval/ranking experience; active candidate
+CAND_0071974,7,0.8360000000000001,Senior AI Engineer with 7.8 yrs; retrieval/ranking experience; active candidate
+CAND_0005649,8,0.8306666666666667,Senior Data Scientist with 7.4 yrs; retrieval/ranking experience; active candidate
+CAND_0065195,9,0.8243333333333334,Search Engineer with 5.1 yrs; retrieval/ranking experience; active candidate
+CAND_0061265,10,0.8226666666666667,Recommendation Systems Engineer with 6.6 yrs; retrieval/ranking experience; active candidate
+CAND_0046064,11,0.8210000000000001,Senior NLP Engineer with 8.9 yrs; retrieval/ranking experience; active candidate
+CAND_0053591,12,0.8210000000000001,AI Engineer with 5.3 yrs; retrieval/ranking experience; active candidate
+CAND_0088025,13,0.8203333333333334,Staff Machine Learning Engineer with 8.6 yrs; retrieval/ranking experience; active candidate
+CAND_0077337,14,0.8183333333333334,Staff Machine Learning Engineer with 7.0 yrs; retrieval/ranking experience; active candidate
+CAND_0079387,15,0.8153333333333334,AI Engineer with 6.9 yrs; retrieval/ranking experience; active candidate
+CAND_0083307,16,0.814,Search Engineer with 7.8 yrs; retrieval/ranking experience; active candidate
+CAND_0011687,17,0.8026666666666668,Senior NLP Engineer with 7.8 yrs; retrieval/ranking experience; active candidate
+CAND_0081053,18,0.7973333333333333,NLP Engineer with 5.4 yrs; retrieval/ranking experience; active candidate
+CAND_0098846,19,0.7906666666666666,AI Engineer with 7.6 yrs; retrieval/ranking experience; active candidate
+CAND_0039383,20,0.7896666666666667,Applied ML Engineer with 7.1 yrs; retrieval/ranking experience; active candidate
+CAND_0074735,21,0.7873333333333333,Applied ML Engineer with 5.5 yrs; retrieval/ranking experience; active candidate
+CAND_0093912,22,0.7816666666666666,Senior Data Scientist with 5.3 yrs; retrieval/ranking experience; active candidate
+CAND_0044883,23,0.775,AI Engineer with 6.3 yrs; retrieval/ranking experience; active candidate
+CAND_0014440,24,0.7716666666666666,Recommendation Systems Engineer with 6.4 yrs; retrieval/ranking experience; active candidate
+CAND_0007009,25,0.7673333333333333,Recommendation Systems Engineer with 7.9 yrs; retrieval/ranking experience; active candidate
+CAND_0081852,26,0.7663333333333333,Senior Data Scientist with 5.9 yrs; retrieval/ranking experience; active candidate
+CAND_0050876,27,0.7653333333333333,Applied ML Engineer with 6.0 yrs; retrieval/ranking experience; active candidate
+CAND_0041669,28,0.7646666666666667,Recommendation Systems Engineer with 8.0 yrs; retrieval/ranking experience; active candidate
+CAND_0064326,29,0.7613333333333333,Search Engineer with 7.6 yrs; retrieval/ranking experience; active candidate
+CAND_0051292,30,0.759,Applied ML Engineer with 5.2 yrs; retrieval/ranking experience; active candidate
+CAND_0052328,31,0.757,Recommendation Systems Engineer with 6.5 yrs; retrieval/ranking experience; active candidate
+CAND_0076163,32,0.7553333333333333,NLP Engineer with 6.9 yrs; retrieval/ranking experience; active candidate
+CAND_0052682,33,0.7546666666666667,NLP Engineer with 6.6 yrs; retrieval/ranking experience; active candidate
+CAND_0010603,34,0.753,ML Engineer with 5.3 yrs; retrieval/ranking experience; active candidate
+CAND_0066999,35,0.753,Recommendation Systems Engineer with 5.9 yrs; retrieval/ranking experience; active candidate
+CAND_0086022,36,0.7423333333333333,Senior Applied Scientist with 5.3 yrs; retrieval/ranking experience; active candidate
+CAND_0096142,37,0.7416666666666667,Applied ML Engineer with 5.0 yrs; retrieval/ranking experience; active candidate
+CAND_0042029,38,0.7406666666666666,Senior Data Scientist with 6.5 yrs; retrieval/ranking experience; active candidate
+CAND_0009691,39,0.7326666666666667,Applied ML Engineer with 6.2 yrs; retrieval/ranking experience; active candidate
+CAND_0005538,40,0.7283333333333334,Senior AI Engineer with 5.9 yrs; retrieval/ranking experience; active candidate
+CAND_0029367,41,0.7276666666666667,Senior Data Scientist with 5.7 yrs; retrieval/ranking experience; active candidate
+CAND_0039754,42,0.7266666666666667,Senior Applied Scientist with 16.2 yrs; retrieval/ranking experience; active candidate
+CAND_0053695,43,0.7253333333333333,Recommendation Systems Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0020877,44,0.7246666666666667,Applied ML Engineer with 5.1 yrs; retrieval/ranking experience; active candidate
+CAND_0043676,45,0.724,Senior Software Engineer (ML) with 6.1 yrs; retrieval/ranking experience; active candidate
+CAND_0049538,46,0.7226666666666667,Applied ML Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0008425,47,0.7210000000000001,Senior NLP Engineer with 7.8 yrs; retrieval/ranking experience; active candidate
+CAND_0014063,48,0.7203333333333333,AI Specialist with 5.4 yrs; retrieval/ranking experience; active candidate
+CAND_0047721,49,0.7153333333333333,Senior Data Scientist with 7.0 yrs; retrieval/ranking experience; active candidate
+CAND_0069905,50,0.7126666666666667,Applied ML Engineer with 6.6 yrs; retrieval/ranking experience; active candidate
+CAND_0077285,51,0.712,Recommendation Systems Engineer with 5.5 yrs; retrieval/ranking experience; active candidate
+CAND_0083852,52,0.7110000000000001,Data Scientist with 6.0 yrs; retrieval/ranking experience; active candidate
+CAND_0070398,53,0.7103333333333333,Machine Learning Engineer with 7.2 yrs; retrieval/ranking experience; active candidate
+CAND_0018549,54,0.7093333333333334,Recommendation Systems Engineer with 6.8 yrs; retrieval/ranking experience; active candidate
+CAND_0027691,55,0.7083333333333334,NLP Engineer with 6.5 yrs; retrieval/ranking experience; active candidate
+CAND_0079064,56,0.7076666666666667,Senior Data Scientist with 5.2 yrs; retrieval/ranking experience; active candidate
+CAND_0062247,57,0.7056666666666667,AI Engineer with 7.3 yrs; retrieval/ranking experience; active candidate
+CAND_0073883,58,0.7053333333333334,AI Specialist with 5.3 yrs; retrieval/ranking experience; active candidate
+CAND_0024147,59,0.705,ML Engineer with 5.9 yrs; retrieval/ranking experience; active candidate
+CAND_0024990,60,0.705,Junior ML Engineer with 5.2 yrs; retrieval/ranking experience; active candidate
+CAND_0068932,61,0.705,ML Engineer with 5.2 yrs; retrieval/ranking experience; active candidate
+CAND_0094165,62,0.704,AI Research Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0046525,63,0.7023333333333333,Senior Machine Learning Engineer with 6.1 yrs; retrieval/ranking experience; active candidate
+CAND_0026716,64,0.6986666666666667,Computer Vision Engineer with 5.6 yrs; retrieval/ranking experience; active candidate
+CAND_0028422,65,0.6983333333333334,Junior ML Engineer with 5.5 yrs; retrieval/ranking experience; active candidate
+CAND_0001930,66,0.6960000000000001,Senior Software Engineer (ML) with 6.9 yrs; retrieval/ranking experience; active candidate
+CAND_0037566,67,0.6946666666666667,Machine Learning Engineer with 6.9 yrs; retrieval/ranking experience; active candidate
+CAND_0041610,68,0.6936666666666667,Recommendation Systems Engineer with 6.7 yrs; retrieval/ranking experience; active candidate
+CAND_0073007,69,0.6933333333333334,AI Specialist with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0090155,70,0.6930000000000001,ML Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0075249,71,0.6926666666666667,Applied ML Engineer with 6.2 yrs; retrieval/ranking experience; active candidate
+CAND_0086151,72,0.6923333333333332,Recommendation Systems Engineer with 7.7 yrs; retrieval/ranking experience; active candidate
+CAND_0069248,73,0.6910000000000001,AI Research Engineer with 5.4 yrs; retrieval/ranking experience; active candidate
+CAND_0027801,74,0.686,NLP Engineer with 7.4 yrs; retrieval/ranking experience; active candidate
+CAND_0094056,75,0.686,NLP Engineer with 5.9 yrs; retrieval/ranking experience; active candidate
+CAND_0044890,76,0.6856666666666666,AI Research Engineer with 5.0 yrs; retrieval/ranking experience; active candidate
+CAND_0043304,77,0.6836666666666666,Junior ML Engineer with 6.5 yrs; retrieval/ranking experience; active candidate
+CAND_0082086,78,0.6836666666666666,Senior Software Engineer (ML) with 6.0 yrs; retrieval/ranking experience; active candidate
+CAND_0049831,79,0.683,Computer Vision Engineer with 5.4 yrs; retrieval/ranking experience; active candidate
+CAND_0049978,80,0.683,Senior Software Engineer (ML) with 6.6 yrs; retrieval/ranking experience; active candidate
+CAND_0031752,81,0.681,ML Engineer with 5.0 yrs; retrieval/ranking experience; active candidate
+CAND_0092706,82,0.6803333333333333,AI Research Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0059017,83,0.6789999999999999,AI Research Engineer with 6.8 yrs; retrieval/ranking experience; active candidate
+CAND_0054100,84,0.6756666666666666,Junior ML Engineer with 6.0 yrs; retrieval/ranking experience; active candidate
+CAND_0076482,85,0.6746666666666666,ML Engineer with 6.6 yrs; retrieval/ranking experience; active candidate
+CAND_0077296,86,0.673,Computer Vision Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0081686,87,0.673,Search Engineer with 6.0 yrs; retrieval/ranking experience; active candidate
+CAND_0010257,88,0.6716666666666666,Senior Data Scientist with 6.5 yrs; retrieval/ranking experience; active candidate
+CAND_0061339,89,0.6689999999999999,Search Engineer with 4.2 yrs; retrieval/ranking experience; active candidate
+CAND_0081846,90,0.6673333333333333,Lead AI Engineer with 6.7 yrs; retrieval/ranking experience; active candidate
+CAND_0058575,91,0.6646666666666667,AI Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0043318,92,0.6643333333333333,Data Scientist with 6.2 yrs; retrieval/ranking experience; active candidate
+CAND_0018925,93,0.663,AI Research Engineer with 5.8 yrs; retrieval/ranking experience; active candidate
+CAND_0096172,94,0.6616666666666666,NLP Engineer with 5.2 yrs; retrieval/ranking experience; active candidate
+CAND_0030827,95,0.6613333333333333,Senior Data Scientist with 5.4 yrs; retrieval/ranking experience; active candidate
+CAND_0036184,96,0.6606666666666666,Recommendation Systems Engineer with 6.0 yrs; retrieval/ranking experience; active candidate
+CAND_0060835,97,0.6593333333333333,Senior Software Engineer (ML) with 6.6 yrs; retrieval/ranking experience; active candidate
+CAND_0022127,98,0.6586666666666666,Computer Vision Engineer with 5.5 yrs; retrieval/ranking experience; active candidate
+CAND_0024549,99,0.658,AI Specialist with 5.2 yrs; retrieval/ranking experience; active candidate
+CAND_0036121,100,0.658,ML Engineer with 5.2 yrs; retrieval/ranking experience; active candidate
